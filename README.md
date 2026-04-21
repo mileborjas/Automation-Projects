@@ -5,11 +5,9 @@ Este repositorio documenta mi aprendizaje y aplicación de herramientas de autom
 ## 📁 Proyectos e Instrumentos
 
 ### 1. Pruebas Web con Selenium IDE
-Automatización de flujos funcionales en la plataforma DemoBlaze (E-commerce).
+Automatización de flujos funcionales en la plataforma DemoBlaze.
 * **[Ver Reporte de Automatización (PDF)](./selenium-ide/evidencia_selenium.pdf)**
-* **Habilidades:** Identificación de selectores (ID, CSS, XPath), validación de flujos de registro y carrito de compras.
 
----
-### 🛠️ Próximos Pasos
-* **Katalon Studio:** Automatización de pruebas Cross-Browser.
-* **Selenium WebDriver:** Creación de scripts robustos con Python.
+### 2. Automatización con Katalon Studio (Próximamente)
+Proyectos en fase de desarrollo enfocados en pruebas de interfaz de usuario y compatibilidad de navegadores.
+* **[Ir a la sección de Katalon](./katalon-studio/README.md)**
