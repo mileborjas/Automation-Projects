@@ -16,7 +16,7 @@ Suite de pruebas funcionales para asegurar la estabilidad de los flujos crítico
 * **[Proyecto Comprimido: Python Selenium](./Automation/KR-exported-python-unitest-project%20(3).zip)**
 
 ### 📸 Evidencias de Ejecución (Logs en Verde)
-* **[Evidencia 01: Compra con Bucle (Parte 1)](./Automation/TC01_Ecommerce_Purchase_Loop%201.png)**
-* **[Evidencia 01: Compra con Bucle (Parte 2)](./Automation/TC01_Ecommerce_Purchase_Loop%202.png)**
+* **[Evidencia 01: Compra con Bucle (Parte 1)](./Automation/TC01_Ecommerce_Purchase_Loop_1.png)**
+* **[Evidencia 01: Compra con Bucle (Parte 2)](./Automation/TC01_Ecommerce_Purchase_Loop_2.png)**
 * **[Evidencia 02: Login Fallido](./Automation/TC02_Invalid_Login.png)**
 * **[Evidencia 03: Búsqueda Dinámica](./Automation/TC03_Search_Product_Validation.png)**
