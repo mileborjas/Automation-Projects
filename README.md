@@ -9,11 +9,11 @@ Automatización de flujos funcionales en la plataforma DemoBlaze.
 * **[Ver Reporte de Automatización (PDF)](./selenium-ide/evidencia_selenium.pdf)**
 
 ## 🤖 Automatización (Katalon Recorder)
+
 Suite de pruebas funcionales para asegurar la estabilidad de los flujos críticos.
 
-### 📄 Scripts de Automatización
-* **[Proyecto Comprimido: Katalon Studio](./Automation/KR%20Exported%20Studio%20Project%20(4).zip)**
-* **[Proyecto Comprimido: Python Selenium](./Automation/KR-exported-python-unitest-project%20(3).zip)**
+### 💻 Código Fuente de la Suite
+* **[Ver Script en Python (Selenium WebDriver)](./Automation/KR-exported-python-unitest-project.py)** * *Este script contiene la implementación de bucles, manejo de variables dinámicas y validaciones (assertions).*
 
 ### 📸 Evidencias de Ejecución (Logs en Verde)
 * **[Evidencia 01: Compra con Bucle (Parte 1)](./Automation/TC01_Ecommerce_Purchase_Loop_1.png)**
