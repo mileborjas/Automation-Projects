@@ -12,7 +12,7 @@ Automatización de flujos funcionales en la plataforma DemoBlaze.
 
 Suite de pruebas funcionales para asegurar la estabilidad de los flujos críticos.
 
-### 💻 Código Fuente (Python)
+### 💻 Código Fuente (Python / Selenium)
 * **[Caso 01: Compra con Bucle](./Automation/TC01EcommercePurchaseLoop.py)**
 * **[Caso 02: Login Fallido](./Automation/TC02InvalidLogin.py)**
 * **[Caso 03: Búsqueda y Validación](./Automation/TC03SearchProductValidation.py)**
