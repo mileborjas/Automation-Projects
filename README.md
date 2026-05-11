@@ -8,6 +8,8 @@ Este repositorio documenta mi aprendizaje y aplicación de herramientas de autom
 Automatización de flujos funcionales en la plataforma DemoBlaze.
 * **[Ver Reporte de Automatización (PDF)](./selenium-ide/evidencia_selenium.pdf)**
 
-### 2. Automatización con Katalon Studio (Próximamente)
-Proyectos en fase de desarrollo enfocados en pruebas de interfaz de usuario y compatibilidad de navegadores.
-* **[Ir a la sección de Katalon](./katalon-studio/README.md)**
+* ## 🤖 Automatización (Katalon Recorder)
+He integrado una suite de pruebas automatizadas que incluye:
+* **Compra con Bucles:** Uso de variables y estructuras `while`.
+* **Pruebas Negativas:** Validación de errores en el inicio de sesión.
+* **Búsqueda Dinámica:** Verificación de resultados mediante filtros.
