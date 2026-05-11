@@ -8,8 +8,12 @@ Este repositorio documenta mi aprendizaje y aplicación de herramientas de autom
 Automatización de flujos funcionales en la plataforma DemoBlaze.
 * **[Ver Reporte de Automatización (PDF)](./selenium-ide/evidencia_selenium.pdf)**
 
-* ## 🤖 Automatización (Katalon Recorder)
-He integrado una suite de pruebas automatizadas que incluye:
-* **Compra con Bucles:** Uso de variables y estructuras `while`.
-* **Pruebas Negativas:** Validación de errores en el inicio de sesión.
-* **Búsqueda Dinámica:** Verificación de resultados mediante filtros.
+## 🤖 Automatización (Katalon Recorder)
+Suite de pruebas funcionales para asegurar la estabilidad de los flujos críticos.
+
+* **[Ver Script: Compra con Bucle (HTML)](./Automation/TC01_Ecommerce_Purchase_Loop.html)**
+* **[Ver Script: Login Fallido (HTML)](./Automation/TC02_Invalid_Login.html)**
+* **[Ver Script: Búsqueda Dinámica (HTML)](./Automation/TC03_Search_Product_Validation.html)**
+
+### 📸 Evidencias de Ejecución
+* **[Evidencia: Todo en Verde (Passed)](./Automation/Evidencias/Captura_Passed.png)**
