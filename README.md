@@ -12,8 +12,10 @@ Automatización de flujos funcionales en la plataforma DemoBlaze.
 
 Suite de pruebas funcionales para asegurar la estabilidad de los flujos críticos.
 
-### 💻 Código Fuente de la Suite
-* **[Ver Script en Python (Selenium WebDriver)](./Automation/KR-exported-python-unitest-project.py)** * *Este script contiene la implementación de bucles, manejo de variables dinámicas y validaciones (assertions).*
+### 💻 Código Fuente (Python)
+* **[Caso 01: Compra con Bucle](./Automation/TC01EcommercePurchaseLoop.py)**
+* **[Caso 02: Login Fallido](./Automation/TC02InvalidLogin.py)**
+* **[Caso 03: Búsqueda y Validación](./Automation/TC03SearchProductValidation.py)**
 
 ### 📸 Evidencias de Ejecución (Logs en Verde)
 * **[Evidencia 01: Compra con Bucle (Parte 1)](./Automation/TC01_Ecommerce_Purchase_Loop_1.png)**
